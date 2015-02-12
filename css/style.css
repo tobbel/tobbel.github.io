@@ -40,6 +40,7 @@ nav li a {
 }
 .content {
   padding: 10px;
+  background: green;
 }
  
 ul.entries li {
@@ -70,4 +71,26 @@ ul.entries a:hover {
 footer {
   font-size: 0.65em;
   text-align: center;
+}
+
+header ul.navigation {
+	display: block;
+	float: right;
+	text-align: left;
+	line-height: 50px;
+}
+header ul.navigation li {
+	display: inline;
+}
+
+#home {
+	text-align: center;
+	font-size: 3em;
+	color: #2b1a1a;
+	margin-bottom: .25em;
+	display: block;
+	border-bottom: 0;
+	text-decoration: none;
+	
+	float: left;
 }
