@@ -1,8 +1,6 @@
 body {
 	font: 16px/1.5 verdana, helvetica-neue, helvetica, arial, sans-serif;
-	background: #cecece;
-	color: #ececec;
-	padding: 0;
+	background: #aaaaaa;
 	margin: 0;
 }
 ul {
@@ -10,18 +8,16 @@ ul {
 	padding: 0;
 }
 a {
-	color: #ccc;
+	color: #dddddd;
 	text-decoration: none;
 }
 a:hover {
-	color: #ececec;
-	text-decoration: underline;
+	color: #444444;
 }
 
 #main {
   width: 960px;
   margin: 0 auto;
-  background: rgba(255, 255, 255, 0.4);
 }
 header {
   padding: 0 10px;
@@ -40,7 +36,7 @@ nav li a {
 }
 .content {
   padding: 10px;
-  background: yellow;
+  background: 269090;
 }
  
 ul.entries li {
