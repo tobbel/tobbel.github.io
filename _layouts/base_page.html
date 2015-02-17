@@ -2,12 +2,5 @@
 layout: default
 ---
 <div class="content">
-  <h2>
-    {% if page.title %}
-      {{ page.title }}
-    {% else %}
-      {{ page.url | remove_first:'/index.html' | remove_first:'/' | replace:'/',' &mdash; ' | capitalize }}
-    {% endif %}
-  </h2>
 	{{ content }}
 </div>

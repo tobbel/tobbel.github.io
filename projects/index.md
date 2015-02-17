@@ -1,5 +1,5 @@
 ---
-layout: base_page
+layout: projects_page
 title: Projects
 ---
 

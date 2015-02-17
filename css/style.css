@@ -1,6 +1,11 @@
+
+html {
+    min-height: 100%
+}
+
 body {
 	font: 16px/1.5 verdana, helvetica-neue, helvetica, arial, sans-serif;
-	background: #aaaaaa;
+	background: -webkit-linear-gradient(#ddd, #fff);
 	margin: 0;
 	color: #505050;
 }
@@ -14,16 +19,17 @@ a {
 }
 
 ul.navigation li a {
-	color: #dddddd;
+	color: #888;
 }
 ul.navigation li a:hover {
-	color: #333333;
+	color: #333;
 }
 
 #main {
-  width: 960px;
+  width: 940px;
   margin: 0 auto;
 }
+
 header {
   padding: 0 10px;
   overflow: hidden;
@@ -89,14 +95,18 @@ footer {
 header {
 	padding-top: 16;
 	padding-bottom: 8;
-	border-bottom-color: #000;
+	/*border-bottom-color: #000;
 	border-bottom-style: solid;
-	border-bottom-width: 1px;
+	border-bottom-width: 1px;*/
 	margin-bottom: 16px;
 }
-
+/*
 header ul {
 	padding-top: 24px;
+}
+*/
+.navigation {
+	margin-top: 2em;
 }
 
 header ul.navigation {
@@ -114,11 +124,18 @@ header ul.navigation li {
 	font-size: 3em;
 	color: #2b1a1a;
 	margin-bottom: .25em;
+	margin-top: 1em;
 	display: block;
 	border-bottom: 0;
 	text-decoration: none;
 	
 	float: left;
+	
+	-webkit-transform: translate3d(0,0,0);
+      -webkit-transition: 160ms -webkit-transform ease-out;
+}
+
+#home:hover {  -webkit-transform: translate3d(0,2px,0);
 }
 
 div.content *[align=right] {
@@ -128,4 +145,5 @@ div.content *[align=right] {
 ul li a.active
 {
 	color: #555555;
+	font-weight: bold;
 }
