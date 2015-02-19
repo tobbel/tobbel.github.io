@@ -128,7 +128,6 @@ header ul.navigation li {
 	text-align: center;
 	font-size: 3em;
 	color: #2b1a1a;
-	/*margin-bottom: .25em;*/
 	margin-top: 35px;
 	display: block;
 	border-bottom: 0;
@@ -137,11 +136,11 @@ header ul.navigation li {
 	float: left;
 	
 	-webkit-transform: translate3d(0,0,0);
-    -webkit-transition: 160ms -webkit-transform ease-out;
+    -webkit-transition: 230ms -webkit-transform ease-out;
 }
 
 #home:hover {
-	-webkit-transform: translate3d(0,2px,0);
+	-webkit-transform: translate3d(0, 5px, 0);
 }
 
 div.content *[align=right] {
