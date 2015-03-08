@@ -3,4 +3,4 @@ layout: base_page
 title: Tobias Lilja
 ---
 
-First test site with jekyll. Go to the [projects](/projects) or [about](/about) page.
+Welcome to the personal website of Tobias Lilja. I'm a programmer based in Gothenburg working in game development. If you're interested, feel free to look at [projects](/projects) I've worked on or read some more [about](/about) me.
