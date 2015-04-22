@@ -4,7 +4,7 @@ title: Projects
 ---
 
 - [SteamWorld: Heist](http://steamworldgames.com/heist/) — Upcoming sequel to [SteamWorld: Dig](http://steamworldgames.com/dig/). We're sweating away trying to make this a worthy follow-up.
-- [Fingu](http://ipkl.gu.se/english/Research/research_projects/codac/fingu) — Another existing game I've worked with updating. Interesting educational product teaching small children count.
+- [Fingu](http://ipkl.gu.se/english/Research/research_projects/codac/fingu) — Another existing game I've worked with updating. Interesting educational product teaching small children how to count.
 - [SteamWorld: Dig](http://steamworldgames.com/dig/) — The game that really put [Image & Form](http://www.imageform.se) on the map as an indie game developer. Proud to have worked on this game.
 - [Anthill](http://anthillgame.com/) — Worked on two expansions for this neat little iOS game, our gem with a million copies sold.
 - [Hugo Troll Race](http://en.wikipedia.org/wiki/Hugo_Troll_Race) — Worked a couple of months on the back end of this project. Did not do that much, but worked as a great introduction to our internal framework.
