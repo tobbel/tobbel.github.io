@@ -9,3 +9,9 @@ title: Hansson Marinteknik AB - Lotsning
 <div>
   <iframe src="https://ext.shorelink.se/fartyg/lulea/" width="850" height="500"></iframe>
 </div>
+<div>
+  <iframe src="https://ext.shorelink.se/fartyg/pitea/" width="850" height="500"></iframe>
+</div>
+<div>
+  <iframe src="https://ext.shorelink.se/fartyg/ske/" width="850" height="500"></iframe>
+</div>
